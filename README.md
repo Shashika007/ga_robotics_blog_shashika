@@ -42,7 +42,7 @@ Or install it yourself as:
 The "texture" key in _config.yml is used to customize the theme data.
 ```yaml
 texture:
-  title: Adam Denisov
+  title: Shashika Dharmasena
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
 
