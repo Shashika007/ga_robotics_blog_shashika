@@ -37,10 +37,10 @@ texture:
 # - about.md
 
 # Build settings
-theme: texture
-
+#theme: texture
+remote_theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
